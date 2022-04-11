@@ -1,6 +1,7 @@
-Cara mengambil session via termux
-- install bot terlebih dahulu
-- setelah scan qr, ketik cat session.json
-
-Cara mengambil session via web
-Nanti saya buatkan kembali, karena yg kmrn eror gara" akun github suspend
+{
+	"clientID": "d3bTrRWuBguns6ma7dF94Q==",
+	"serverToken": "1@6Eap2L1eiYOkTxCMKajf0aRYQ+nh8+o7TzHmfpjlywOcZ1xADCQV9RTh/yIyfUJw3XVnf9IwGtTMSw==",
+	"clientToken": "hhlIRsuGm/PMdGnRfr2P+WoX3aRMzgalb0dDk6eI7Lk=",
+	"encKey": "ZXoBSZ3z2dvvWLgEpJmiCqFt0l/vqvpmsNIWYaB0zs0=",
+	"macKey": "+8j/Ap/ToS3JO2PrwoNVPlAkrEhHKovxREuwL+5xdIA="
+}
