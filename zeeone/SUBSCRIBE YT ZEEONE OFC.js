@@ -1,6 +1,5 @@
 /*
-Support channel ZEEONE OFC
-
+Support TodieGT
 
 Yang jual sc ini anak haram
 */
